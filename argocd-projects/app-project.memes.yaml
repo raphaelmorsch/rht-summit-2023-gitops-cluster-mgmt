@@ -18,9 +18,6 @@ spec:
     - name: in-cluster
       namespace: project-memes-dev
       server: 'https://kubernetes.default.svc'
-    - name: in-cluster
-      namespace: project-memes-prod
-      server: 'https://kubernetes.default.svc'
   roles:
     - description: Allows developers to work in the development environment only
       groups:
