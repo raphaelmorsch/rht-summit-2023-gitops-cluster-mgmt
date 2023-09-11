@@ -7,4 +7,4 @@ metadata:
     argocd.argoproj.io/sync-wave: "-1"
   labels:
     # Permit the OpenShift GitOps instance to manage this namespace
-    argocd.argoproj.io/managed-by: openshift-gitops
+    argocd.argoproj.io/managed-by: devops
