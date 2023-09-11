@@ -5,3 +5,4 @@ metadata:
   name: application-dev
 users:
   - foo
+  - app-two
